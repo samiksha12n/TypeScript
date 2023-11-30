@@ -1,0 +1,5 @@
+let spacecraftName : [string] = ['Determination']
+let speedMph : [number] = [17500]
+let kilometersToMars : [number] = [225000000]
+let kilometersToTheMoon : [number] = [384400]
+let milesPerKilometer : [number] = [0.621]
